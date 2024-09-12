@@ -4,6 +4,8 @@ Predicting Electric Vehicle Charging Loads
 
 This project uses PyTorch to build a neural network model to predict residential electric vehicle (EV) charging loads based on real-world data from apartment buildings in Norway. The goal is to forecast the actual energy consumption (in kilowatt hours) during a charging session, which could be useful for predicting energy costs and planning EV charging infrastructure.
 
+The data can be accessed from this link: [Link Text] https://data.mendeley.com/datasets/jbks2rcwyj/1
+
 ## Input Features:
 
 Plug-in Duration: The total time the vehicle remains plugged in.
