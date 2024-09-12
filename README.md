@@ -13,9 +13,9 @@ Month: The month in which the charging session takes place.
 Day of the Week: The specific day the charging session occurs.
 Traffic Density: A measure of the traffic around the location during the session.
 Target Variable:
-
 Charging Load (kWh): The amount of energy consumed during the charging session.
-Objective:
+
+## Objective:
 
 This project aims to accurately predict the energy consumption for EV charging sessions. Such a model can help in optimizing EV infrastructure planning by forecasting energy requirements, which could aid in managing energy costs effectively.
 
