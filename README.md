@@ -33,4 +33,4 @@ If the model performs well, it can be applied to:
 Predict energy consumption for residential EV charging.
 Help in cost estimation for developing charging infrastructure.
 Assist in energy grid planning and optimization.
-This description should give readers a clear understanding of your project, its goals, and its potential applications! Let me know if you'd like to tweak anything further.
+This description should give readers a clear understanding of your project, its goals, and its potential applications! 
