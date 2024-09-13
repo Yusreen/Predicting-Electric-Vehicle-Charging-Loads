@@ -8,11 +8,15 @@ The data can be accessed from this [Link Text]: https://data.mendeley.com/datase
 ## Input Features:
 
 Plug-in Duration: The total time the vehicle remains plugged in.
+
 Location Type: Whether the charging point is in a private or public setting.
+
 Month: The month in which the charging session takes place.
+
 Day of the Week: The specific day the charging session occurs.
+
 Traffic Density: A measure of the traffic around the location during the session.
-Target Variable:
+
 Charging Load (kWh): The amount of energy consumed during the charging session.
 
 ## Objective:
