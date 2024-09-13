@@ -5,14 +5,23 @@ This project uses PyTorch to build a neural network model to predict residential
 
 The data can be accessed from this [Link Text]: https://data.mendeley.com/datasets/jbks2rcwyj/1
 
+Note:
+
+The project was a  challenge problem as part of the PyTorch and Neural Networks course on codecademy.
+
 ## Input Features:
 
 Plug-in Duration: The total time the vehicle remains plugged in.
+
 Location Type: Whether the charging point is in a private or public setting.
+
 Month: The month in which the charging session takes place.
+
 Day of the Week: The specific day the charging session occurs.
+
 Traffic Density: A measure of the traffic around the location during the session.
-Target Variable:
+
+### The target variable: 
 Charging Load (kWh): The amount of energy consumed during the charging session.
 
 ## Objective:
@@ -33,4 +42,4 @@ If the model performs well, it can be applied to:
 Predict energy consumption for residential EV charging.
 Help in cost estimation for developing charging infrastructure.
 Assist in energy grid planning and optimization.
-This description should give readers a clear understanding of your project, its goals, and its potential applications! 
+
