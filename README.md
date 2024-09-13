@@ -17,7 +17,7 @@ Day of the Week: The specific day the charging session occurs.
 
 Traffic Density: A measure of the traffic around the location during the session.
 
-### The target variable
+### The target variable: 
 Charging Load (kWh): The amount of energy consumed during the charging session.
 
 ## Objective:
